@@ -55,6 +55,7 @@ input{
     background-color:#212429 ;
     border: 1px solid #949EA1;
     padding: 4px;
+    border-radius: 2px;
 }
 
 .derechos_reservados{
